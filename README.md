@@ -24,27 +24,27 @@ seaborn - for advanced visualizations
 
 ## Steps in the Notebook
 
-**1. Data Loading**
+***1. Data Loading***
 
 The dataset is loaded using pandas.read_csv().
 
 The shape of the dataset is checked using .shape.
 
-**2. Data Cleaning & Preprocessing**
+***2. Data Cleaning & Preprocessing***
 
 Missing values are handled using .dropna().
 
 Data types are adjusted if necessary.
 
-**3. Exploratory Data Analysis (EDA)**
+***3. Exploratory Data Analysis (EDA)***
 
-*Gender Distribution*
+**Gender Distribution**
 
 The dataset is analyzed for gender distribution among customers.
 
 Visualizations (e.g., bar charts) are used to represent gender-based trends.
 
-*Other Key Insights (not fully listed here)*
+**Other Key Insights (not fully listed here)**
 
 Customer demographics (age groups, locations)
 
