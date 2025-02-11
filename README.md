@@ -4,13 +4,13 @@
 
 This project analyzes sales data from the Diwali shopping season using Python and various data analysis libraries. The goal is to gain insights into customer behavior, sales trends, and other relevant metrics.
 
-##Dataset
+## Dataset
 
 **The dataset used**: Diwali Sales Data.csv
 
 It contains transactional details of sales, including customer demographics, product details, and purchase amounts.
 
-##Libraries Used
+## Libraries Used
 
 The following libraries are used in this notebook:
 
@@ -22,7 +22,7 @@ matplotlib.pyplot - for visualizations
 
 seaborn - for advanced visualizations
 
-##Steps in the Notebook
+## Steps in the Notebook
 
 **1. Data Loading**
 
@@ -52,7 +52,7 @@ Purchase behavior analysis
 
 Product category trends
 
-##Visualizations
+## Visualizations
 
 The notebook includes various plots to visualize sales trends, including:
 
@@ -64,11 +64,11 @@ Box plots
 
 Heatmaps
 
-##Conclusion
+## Conclusion
 
 This analysis provides valuable insights into customer behavior during Diwali sales, helping businesses optimize marketing strategies and inventory management.
 
-##How to Use
+## How to Use
 
 Open the Jupyter Notebook (Diwali Sales.ipynb).
 
@@ -76,12 +76,12 @@ Run the cells sequentially to process and analyze the data.
 
 Modify or extend the analysis as needed based on additional business requirements.
 
-##Prerequisites
+## Prerequisites
 
 Ensure you have the required Python libraries installed. You can install them using:
 
 pip install numpy pandas matplotlib seaborn
 
-##Author
+## Author
 
 **GOPU VARUN KRISHNA**
